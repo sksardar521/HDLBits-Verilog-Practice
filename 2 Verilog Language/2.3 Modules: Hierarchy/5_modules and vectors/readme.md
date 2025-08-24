@@ -5,7 +5,12 @@ The module provided to you is: module my_dff8 ( input clk, input [7:0] d, output
 <img width="852" height="259" alt="image" src="https://github.com/user-attachments/assets/7a946dd8-143c-469b-b0b5-344f2edf4963" />
 
 
+
+
 **Execution result**
+
+
+
 <img width="692" height="407" alt="image" src="https://github.com/user-attachments/assets/ea1452b9-8a31-4b82-8fb4-9a64ba2ae10f" />
 
 **Schematic generated through Vivado**
